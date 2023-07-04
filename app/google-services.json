@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "445986981999",
+    "project_id": "shriram-61b40",
+    "storage_bucket": "shriram-61b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445986981999:android:d4d198e34f0f5d5b76659a",
+        "android_client_info": {
+          "package_name": "com.example.shriramquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445986981999-55r5ebbu5a7d0dqj3v2gd6q9ocgcmqvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shriramquizapp",
+            "certificate_hash": "be7d4673208b1cb31d736d9af676f45eac0cb72b"
+          }
+        },
+        {
+          "client_id": "445986981999-a3e5uiuno2j88m09htb1qhap9aqj1g8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTTHBy4n37qkoXa88330a7y8ZtsG2hCq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445986981999-a3e5uiuno2j88m09htb1qhap9aqj1g8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
